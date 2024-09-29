@@ -7,10 +7,36 @@
 - Visualisasi data yang baik
 - ![image](https://github.com/user-attachments/assets/03171e9e-c0cb-4ea3-be76-4e6f4934b0d0)
 
-1. Diatas merupakan contoh visualisasi data dari klasemen liga inggris. Menurut say aini adalah contoh visualisasi data yang baik karena hamper semua info tentang liga ditampilkan dalam bagan ini seperti nama klub dan logonya serta jumlah menang, kalah dan jumlah gol atapun kebobolan. Intinya semua informasi yang ditampilkan itu sederhana, jelas dan gampang di pahami sesuai dengan prinsip dataviz.
+1. Visualisasi data dari tabel klasemen Premier League:
+
+- The Design Study Methodology:
+Visualisasi ini dirancang untuk pengguna yang ingin melihat klasemen liga secara cepat. Informasi yang ditampilkan (posisi tim, jumlah pertandingan, hasil pertandingan terakhir, dan jumlah poin) sangat relevan bagi penggemar sepak bola dan memungkinkan mereka segera memahami performa tim favorit mereka.
+
+- Visual Encoding Techniques:
+Teknik encoding visual dalam tabel ini sangat efektif. Misalnya: Warna hijau digunakan untuk menunjukkan kemenangan di kolom "Form," dan merah untuk kekalahan. Ini memudahkan pengguna untuk mengidentifikasi pola performa setiap tim.
+Panah hijau dan merah di sebelah nama tim menunjukkan apakah mereka naik atau turun di klasemen, memberikan informasi tambahan secara visual tanpa harus membaca terlalu banyak detail.
+Penggunaan lambang klub di sebelah nama tim juga memudahkan identifikasi visual.
+
+- Cognition and Perception:
+Visualisasi ini memanfaatkan prinsip persepsi dengan baik. Penggunaan simbol sederhana dan warna yang kontras (seperti hijau untuk kemenangan dan merah untuk kekalahan) membantu otak manusia cepat memproses informasi penting. Pengguna dapat dengan mudah melihat tren performa setiap tim tanpa perlu menganalisis angka secara mendalam.
+
+- Interaction:
+Meskipun gambar ini tidak interaktif secara langsung, jika diimplementasikan dalam platform digital seperti situs web atau aplikasi, pengguna bisa mendapatkan informasi lebih detail tentang tim dengan mengklik atau mengarahkan kursor pada setiap elemen (seperti simbol atau hasil pertandingan), memungkinkan eksplorasi lebih dalam. Misalnya, informasi tentang pertandingan berikutnya juga membantu pengguna memahami jadwal mendatang.
    ![image](https://github.com/user-attachments/assets/2d53b2d5-4fd5-4879-85bf-dc465221d62b)
 
-2. Diatas merupakan contoh visualisasi data tentang jumlah bulanan pengunjung dari website terbesar di dunia. Menurut saya ini adalah visualisasi data yang baik karena infografis ini menggabungkan data yang sangat besar dan rumit menjadi satu tampilan yang ringkas dan mudah dimengerti. Penggunaan warna dan ukuran yang baik untuk membuat hierarki dalam infografis seperti semakin besar lingkaran maka semakin banyak pengunjung webnya, warna yang disajikan juga memudaahkan pembaca untuk membedakan antar entitas. Dan juga desainna menarik secara visual dan informatif dan menggunkana ruang secaraefisien tanpa terlihat terlalu ramai.
+2. Visualisasi tentang Top 50 Websites:
+
+- The Design Study Methodology: 
+Visualisasi ini dirancang untuk memberikan informasi tentang peringkat situs web terbesar di dunia berdasarkan traffic. Desainnya mengarahkan perhatian pada situs web yang mendominasi dengan menggunakan ukuran lingkaran yang proporsional dengan jumlah traffic yang mereka terima. Ini menunjukkan bahwa visualisasi ini disesuaikan untuk kebutuhan pengguna yang ingin memahami dominasi internet secara cepat.
+
+- Visual Encoding Techniques:
+Teknik encoding yang digunakan dalam visualisasi ini sangat efektif. Data diterjemahkan ke dalam ukuran lingkaran, di mana semakin besar traffic, semakin besar pula lingkaran yang mewakilinya. Penggunaan warna yang seragam dengan perbedaan ukuran dan letak situs web utama membantu pemahaman cepat tanpa perlu membaca angka secara langsung.
+
+- Cognition and Perception:
+Visualisasi ini memanfaatkan persepsi visual manusia dengan baik, khususnya dalam hal pengenalan ukuran dan warna. Lingkaran-lingkaran yang berbeda ukurannya sangat memudahkan pengguna untuk membandingkan ukuran traffic antara situs satu dengan lainnya. Tidak hanya itu, susunan situs web dalam format radial memudahkan pengguna untuk memahami hierarki berdasarkan ukuran traffic.
+
+- Interaction:
+Meskipun visualisasi ini statis, jika dibuat dalam format interaktif, pengguna dapat mengklik setiap lingkaran untuk mendapatkan detail lebih lanjut tentang situs web tersebut, seperti kategori, asal negara, atau perkembangan traffic dari waktu ke waktu. Ini bisa memberikan pengalaman eksplorasi yang lebih mendalam.
 
 - Contoh visualisasi data yang buruk
 - ![image](https://github.com/user-attachments/assets/449d6f17-9d25-4252-a405-943fa07c45ab)
